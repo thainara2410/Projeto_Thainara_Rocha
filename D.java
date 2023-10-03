@@ -10,4 +10,8 @@ public class D {
     public void md2(){
         System.out.println("d2");
     }
+
+     public void md4(){
+        System.out.println("md4");
+    }
 }
