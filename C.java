@@ -17,10 +17,14 @@ public class C {
     }
 
     public void mc1(){
-        System.out.println("c2");
+        System.out.println("c1");
     }
 
     public void mc2(){
         System.out.println("c2");
+    }
+
+    public void mc3(){
+        System.out.println("mc3");
     }
 }
