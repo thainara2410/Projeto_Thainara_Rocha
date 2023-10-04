@@ -11,7 +11,11 @@ public class D {
         System.out.println("d2");
     }
 
-     public void md3(){
+    public void md3(){
         System.out.println("md3");
+    }
+
+    public void md4(){
+        System.out.println("md4");
     }
 }
